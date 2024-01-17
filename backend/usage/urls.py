@@ -1,5 +1,5 @@
 from django.urls import include, path
-from publications import views
+from usage import views
 from rest_framework.routers import DefaultRouter
 
 router = DefaultRouter()
