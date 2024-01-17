@@ -1,9 +1,9 @@
 # Comments Tree
 
-Модульная система комментариев с ветками и многоуровневой сортировкой.
-
 <p align="center"><img src="https://github.com/exp-ext/comment_tree/blob/master/backend/static/git/comments.webp" width="700" /></p>
 
+
+Модульная система комментариев с ветками и многоуровневой сортировкой.
 
 ## Особенности
 
